@@ -1,0 +1,9 @@
+.board-row {
+  width: 100%;
+  height: 100%;
+}
+.square {
+  padding: 0;
+  width: 30px;
+  height: 30px;
+}
